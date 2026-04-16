@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "generated_by": "TENSOR-26-PS16-AI-Optimizer",
+    "team": "APEX LEGENDS",
+    "grid_size": "2x2",
+    "agent": "Q-Learning"
+  },
+  "performance": {
+    "avg_wait_reduction_pct": 2.77,
+    "throughput_improvement_pct": -1.51
+  },
+  "signal_plan": {
+    "I00": {
+      "phase": "EW",
+      "green_duration_sec": 24,
+      "ped_buffer_sec": 5
+    },
+    "I01": {
+      "phase": "EW",
+      "green_duration_sec": 24,
+      "ped_buffer_sec": 5
+    },
+    "I10": {
+      "phase": "EW",
+      "green_duration_sec": 24,
+      "ped_buffer_sec": 5
+    },
+    "I11": {
+      "phase": "NS",
+      "green_duration_sec": 20,
+      "ped_buffer_sec": 5
+    }
+  }
+}
